@@ -3,7 +3,7 @@
 </div>  
   
  <h2  align="center">💻 Dm Me Let's Talk</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rida-ennasry-3143041a7/)](https://www.linkedin.com/in/rida-ennasry-3143041a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//rida-ennasry-3143041a7/)](https://www.linkedin.com/in/anirudhemmadi/)
 
  
  <h2  align="center">💻 Technologies </h2>
