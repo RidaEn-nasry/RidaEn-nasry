@@ -3,7 +3,8 @@
 </div>  
   
  <h2  align="center"<Dm Me Let's Talk</h2>
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
  <h2  align="center">💻 Technologies </h2>
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
