@@ -3,7 +3,8 @@
 </div>  
   
 
-### Hi there 👋
+### Technologies 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 **RidaEn-nasry/RidaEn-nasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
