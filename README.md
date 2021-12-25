@@ -22,9 +22,9 @@
 
 
 - 🔭 I’m currently A Software Enginerring Student at 1337.
-- 🌱 I’m currently learning  React.js 
+- 🌱 I’m currently learning  React.js.
 - 👯 I’m looking to collaborate on Blockchain Related Projects.
 - 💬 Ask me about Low Level system and netwoking related stuff.
-- 📫 You can reach me at Twitter: @EnnasryRida
+- 📫 You can reach me at Twitter: @EnnasryRida .
 
 
