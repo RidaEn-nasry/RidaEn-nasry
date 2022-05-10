@@ -1,5 +1,5 @@
 <div align="center">
- <h1 style="color:blue">Code a little, test a little. seriously code a little test a little.</h1>
+ <h1 >Code a little, test a little. 😬 seriously code a little, test a little.</h1>
 </div>  
  
 
