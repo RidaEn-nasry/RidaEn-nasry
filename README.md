@@ -20,6 +20,11 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidaEn-nasry&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
  
+ 
+ <h1> Some quotes which i appreciate </h1>
+ <ul>
+  <li>The only purpose of the staircase is to climb </li>
+  </lu>
 </div>
 
 
