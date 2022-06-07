@@ -24,7 +24,7 @@
  <h1> Some quotes which i appreciate </h1>
  <ul>
   <li>The only purpose of the staircase is to climb </li>
-  <li>You have to do your best work when're the least motivated, those days when you don't want to do it, you got suck the fuck up and do it</li>
+  <li>You have to do your best work when're the least motivated, those days when you don't want to do it, you got suck the fuck up and do it anyway.</li>
   </lu>
 </div>
 
