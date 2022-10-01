@@ -1,5 +1,5 @@
 <div align="center">
- <h1 >Code a little, test a little. 😬 seriously code a little, test a little. otherwise you're throught ! or more politely you're fucked!! </h1>
+ <h1 >Code a little, test a little. 😬 seriously code a little, test a little. otherwise you're throught !!!  </h1>
 </div>  
  
 
